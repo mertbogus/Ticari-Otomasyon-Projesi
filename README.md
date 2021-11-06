@@ -9,3 +9,5 @@ teknolojileri kullandığıma gelecek olursak;
 Projeyi denemek istiyorsanız proje içerisinde yer alan Dbo.TicariOtomasyon.bak veritabanını içeri aktarmanız lazım. Aktardıktan sonra program dosyasının içerisinde yer alan
 sqlbaglantisi.cs adlı projeyi bir metin editörü ile açıp oradaki bağlantı cümleciğini kendinize göre ayarlamanız gerekmektedir. Aşağıda projenin çalışır halinin videolu şekli yer
 almaktadır. 
+
+Program ile ilgili kısa bir video; https://drive.google.com/file/d/1ww_jgYUgxMK57MaVRA7FDEzrzD-8oSAA/view?usp=sharing
